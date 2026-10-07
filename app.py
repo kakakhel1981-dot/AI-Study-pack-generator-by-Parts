@@ -32,7 +32,7 @@ with st.sidebar:
     selected_model = st.selectbox(
         "LLM Engine",
         ["llama-3.3-70b-versatile",
-         "openai/gpt-oss-120b"
+         "openai/gpt-oss-120b",
         "llama-3.1-8b-instant",
         "mixtral-8x7b-32768"],
      
